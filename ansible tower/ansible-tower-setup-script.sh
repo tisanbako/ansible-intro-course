@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash.
 # Script to setup ansible tower in Red Hat Enterprise Linux 8, with t2.xlarge machine!
 set -e
 
