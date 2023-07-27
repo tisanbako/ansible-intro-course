@@ -1,5 +1,5 @@
 ---
-- name: Setting up webservers.
+- name: Setting up webservers
   hosts: webservers
   become: true
   vars_files:
